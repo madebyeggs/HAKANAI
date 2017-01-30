@@ -5407,3 +5407,11 @@
 [2017-01-30 23:33:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
 [2017-01-30 23:33:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send analytic_event_data data, will try again later. Error: 
 [2017-01-30 23:33:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:34:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send error_event_data data, will try again later. Error: 
+[2017-01-30 23:34:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:34:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send analytic_event_data data, will try again later. Error: 
+[2017-01-30 23:34:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:35:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send error_event_data data, will try again later. Error: 
+[2017-01-30 23:35:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:35:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send analytic_event_data data, will try again later. Error: 
+[2017-01-30 23:35:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
