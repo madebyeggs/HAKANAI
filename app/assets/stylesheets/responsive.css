@@ -26,7 +26,8 @@
 	article header.page-title h2{ font-size:22px}
 	article.countdown-pan[role="countdown"].countdown-pan > p{width:500px;}
 	img.displayed {
-		width:510px;
+		width:500px;
+		margin-bottom:-200px;
 	}
 }
 @media (max-width:550px) {
@@ -41,5 +42,6 @@
 	article.countdown-pan[role="countdown"].countdown-pan > p{width:320px;margin:inherit auto;}
 	img.displayed {
 		width:300px;
+		margin-bottom:-120px;
 	}
 }

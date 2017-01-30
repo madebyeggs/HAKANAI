@@ -5347,3 +5347,63 @@
 [2017-01-30 22:51:16 +0000 administorsMBP2.domain_not_set.invalid (7835)] INFO : Finished instrumentation
 [2017-01-30 22:51:16 +0000 administorsMBP2.domain_not_set.invalid (7835)] INFO : Doing deferred dependency-detection before Rack startup
 [2017-01-30 22:51:19 +0000 administorsMBP2.domain_not_set.invalid (7835)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1386933/applications/20595735
+[2017-01-30 23:27:24 +0000 administorsMBP2.domain_not_set.invalid (7835)] INFO : Starting Agent shutdown
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Starting the New Relic agent in "development" environment.
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Reading configuration from config/newrelic.yml (/Volumes/Other/MadeByEggs/Clients/HAKANAI/V1)
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : New Relic Agent Developer Mode enabled.
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Environment: development
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Dispatcher: webrick
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Application: My Application (Development)
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Installing ActiveJob instrumentation
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Installing Net instrumentation
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Installing Rails 4 Controller instrumentation
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Installing Rails 4 view instrumentation
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Installing Rails 4 Error instrumentation
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Finished instrumentation
+[2017-01-30 23:27:28 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-01-30 23:27:30 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1386933/applications/20595735
+[2017-01-30 23:28:52 +0000 administorsMBP2.domain_not_set.invalid (8811)] INFO : Starting Agent shutdown
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Starting the New Relic agent in "development" environment.
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Reading configuration from config/newrelic.yml (/Volumes/Other/MadeByEggs/Clients/HAKANAI/V1)
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : New Relic Agent Developer Mode enabled.
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Environment: development
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Dispatcher: webrick
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Application: My Application (Development)
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Installing ActiveJob instrumentation
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Installing ActiveRecord 4+ instrumentation
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Installing Net instrumentation
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Installing deferred Rack::Builder instrumentation
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Installing Rack::Builder middleware instrumentation
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Installing Rails 3+ middleware instrumentation
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Installing Rails 4 Controller instrumentation
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Installing Rails 4 view instrumentation
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Installing Rails 4 Error instrumentation
+[2017-01-30 23:28:56 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Finished instrumentation
+[2017-01-30 23:28:57 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Doing deferred dependency-detection before Rack startup
+[2017-01-30 23:28:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1386933/applications/20595735
+[2017-01-30 23:29:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send error_event_data data, will try again later. Error: 
+[2017-01-30 23:29:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:30:00 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send analytic_event_data data, will try again later. Error: 
+[2017-01-30 23:30:00 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:30:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send error_event_data data, will try again later. Error: 
+[2017-01-30 23:30:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:30:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send analytic_event_data data, will try again later. Error: 
+[2017-01-30 23:30:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:31:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send error_event_data data, will try again later. Error: 
+[2017-01-30 23:31:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:31:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send analytic_event_data data, will try again later. Error: 
+[2017-01-30 23:31:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:32:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send error_event_data data, will try again later. Error: 
+[2017-01-30 23:32:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:32:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send analytic_event_data data, will try again later. Error: 
+[2017-01-30 23:32:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:33:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send error_event_data data, will try again later. Error: 
+[2017-01-30 23:33:58 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com
+[2017-01-30 23:33:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : Unable to send analytic_event_data data, will try again later. Error: 
+[2017-01-30 23:33:59 +0000 administorsMBP2.domain_not_set.invalid (8858)] INFO : NewRelic::Agent::LicenseException: Invalid license key, please visit support.newrelic.com

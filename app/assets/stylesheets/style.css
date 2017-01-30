@@ -77,13 +77,13 @@ a:focus, img:focus, button:focus, .btn:focus {
 	outline: none;
 }
 ::-moz-selection {
- background-color:#ffffff;
+ background-color:#e84d49;
  color:#fff;
  text-shadow:none;
 }
 
 ::selection {
-	background-color: #ffffff;
+	background-color: #e84d49;
 	color: #fff;
 	text-shadow: none;
 }
@@ -104,12 +104,12 @@ img.displayed {
     margin-right: auto;
 	width:600px;
 	margin-top:20px;
-	margin-bottom:-180px;
+	margin-bottom:-200px;
 }
 
 /*===== Header ===*/
 header[role="header"]{ position: fixed; bottom:0; left:0; right:0; width:100%; padding:0 5%; z-index:6}
-header[role="header"] > hgroup{background-color:rgba(255,255,255,1); overflow:hidden; position:relative }
+header[role="header"] > hgroup{background-color:rgba(255,255,255,0.7); overflow:hidden; position:relative }
 header[role="header"] > hgroup > h1{ padding:0; margin:0; display:inline-block; position:relative; z-index:5}
 header[role="header"] > hgroup > h1 > a{ background-color:#353535; text-transform:none; font-family: 'Lato', serif;text-align:center; font-size:24px; line-height:52px;color:#FFF ;display:inline-block; width:157px; font-weight:500; letter-spacing:5px;  }
 header[role="header"] > hgroup > h1 > a:hover{ text-decoration:none}
